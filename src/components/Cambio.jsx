@@ -4,7 +4,7 @@ import usd from "../assets/USD.svg";
 import eur from "../assets/EUR.svg";
 import zar from "../assets/ZAR.svg";
 import gbp from "../assets/GBP.svg";
-import close from "../assets/close.svg";
+import close from "../assets/Close.svg";
 
 const Cambio = () => {
   const lista = [
